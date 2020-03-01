@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Barrack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - MainMenu
+  - MapBg
+  - Mobs
+  - Player
+  - Tower
+  - FieldUI
+  - PauseMenu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MainMenu
+    uniqueID: 835431281
+    locked: 0
+  - name: MapBg
+    uniqueID: 3350795487
+    locked: 0
+  - name: Mobs
+    uniqueID: 2159722987
+    locked: 0
+  - name: Player
+    uniqueID: 386972741
+    locked: 0
+  - name: Tower
+    uniqueID: 2205715195
+    locked: 0
+  - name: FieldUI
+    uniqueID: 4044048253
+    locked: 0
+  - name: PauseMenu
+    uniqueID: 3415011943
+    locked: 0
